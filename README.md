@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arunabh-alt
+- 👋 Hi, I’m Arunabh Bora
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning DSA,Core Java
 - 💞️ I’m looking to collaborate on product base company
