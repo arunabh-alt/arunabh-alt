@@ -2,7 +2,7 @@
 <h3 align="center">AI/ML Engineer | Robotics Enthusiast | Full-stack Tester</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2500&pause=500&color=00BFFF&center=true&width=435&lines=Welcome+to+my+GitHub+Profile!;AI%2FML+Engineer+and+Research;Robotics+%26+Graduate;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2500&pause=500&color=00BFFF&center=true&width=435&lines=Welcome+to+my+GitHub+Profile!;AI%2FML+Engineer+and+Researcher;Robotics+%26+Graduate;" alt="Typing SVG" />
 </p>
 
 ---
