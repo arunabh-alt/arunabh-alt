@@ -8,7 +8,7 @@
 ---
 
 ### 🧑‍💻 About Me:
-- 🔭 Currently working as **Artificial Intelligence Engineer** at UTAP Ltd, UK.
+- 🔭 Former **Artificial Intelligence Engineer** at UTAP Ltd, UK.
 - 📚 Completed **MS in Robotics and Autonomous Systems** with Distinction from the **University of Lincoln**.
 - 🌱 Exploring **LLMs**, **RAG**, **Deep Learning**, and **IoT applications**.
 - 📝 Published research on **medical chatbots**, **retrieval-augmented generation**, and **agriculture IoT systems**.
