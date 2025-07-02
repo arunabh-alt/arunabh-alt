@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arunabh Bora</h1>
+<h1 align="center">Hi, I'm Arunabh Bora</h1>
 <h3 align="center">AI/ML Engineer | Robotics Enthusiast | Full-stack Tester</h3>
 
 <p align="center">
@@ -7,22 +7,22 @@
 
 ---
 
-### 🧑‍💻 About Me:
-- 🔭 Former **Artificial Intelligence Engineer** at UTAP Ltd, UK.
-- 📚 Completed **MS in Robotics and Autonomous Systems** with Distinction from the **University of Lincoln**.
-- 🌱 Exploring **LLMs**, **RAG**, **Deep Learning**, and **IoT applications**.
-- 📝 Published research on **medical chatbots**, **retrieval-augmented generation**, and **agriculture IoT systems**.
+###  About Me:
+- **Artificial Intelligence Engineer**.
+- Completed **MS in Robotics and Autonomous Systems** with Distinction from the **University of Lincoln**.
+- Exploring **LLMs**, **RAG**, **Deep Learning**, and **IoT applications**.
+- Published research on **medical chatbots**, **retrieval-augmented generation**, and **agriculture IoT systems**.
 
 ---
 
-### 🔗 Connect with Me:
-- 💼 [LinkedIn](https://linkedin.com/in/arunabhbora)
-- 🏗️ [GitHub](https://github.com/arunabh-alt)
-- 📫 Email: arunabhbora.ab@gmail.com
+### Connect with Me:
+- [LinkedIn](https://linkedin.com/in/arunabhbora)
+- [GitHub](https://github.com/arunabh-alt)
+- Email: arunabhbora.ab@gmail.com
 
 ---
 
-### 🛠️ Skills:
+### Skills:
 #### Languages & Tools:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -40,7 +40,7 @@
 
 ---
 
-### 🚀 Featured Projects:
+### Featured Projects:
 1. **[Comparative Analysis of RAG-based LLMs for Medical Chatbots](https://github.com/arunabh-alt/Comparative-Analysis-of-RAG-based-LLMs-for-Medical-Chatbot.git)**
    - Fine-tuned LLMs (Flan-T5, LLaMA-2, Mistral-7B) for medical Q&A tasks using RAG techniques.
    - Achieved 57% accuracy on USMLE MCQs with a novel MCQ evaluation method.
@@ -57,14 +57,14 @@
 
 ---
 
-### 🏆 Publications:
+### Publications:
 - 📜 **Systematic Analysis of RAG-Based LLMs for Medical Chatbot Applications** (MDPI 2024) [Read More](https://www.mdpi.com/2504-4990/6/4/116)
 - 📜 **IoT-Based Agricultural Water Management System** (IEEE 2022) [Read More](https://ieeexplore.ieee.org/document/10066077)
 - 📜 **Rainfall Prediction and Fruit Health Monitoring System** (Nature 2024) [Read More](https://doi.org/10.1038/s41598-023-49186-y)
 
 ---
 
-### 📈 GitHub Stats:
+### GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arunabh-alt&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunabh-alt&layout=compact&theme=radical" alt="Top Languages" />
@@ -72,6 +72,6 @@
 
 ---
 
-### 🎨 Fun Fact:
+### Fun Fact:
 I enjoy building simulations, crafting efficient algorithms, and exploring cutting-edge AI research!
 
