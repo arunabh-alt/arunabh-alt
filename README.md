@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Arunabh Bora</h1>
-<h3 align="center">AI/ML Engineer | Robotics Enthusiast | Full-stack Tester</h3>
+<h3 align="center">AI/ML Engineer | Robotics Enthusiast | AI Full-stack Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2500&pause=500&color=00BFFF&center=true&width=435&lines=Welcome+to+my+GitHub+Profile!;AI%2FML+Engineer+and+Researcher;Robotics+Graduate;" alt="Typing SVG" />
@@ -34,8 +34,9 @@
 
 #### Areas of Expertise:
 - Machine Learning (Supervised/Unsupervised, Reinforcement Learning, NLP)
+- GenAI (RAG, Chatbot, Agentic AI)
 - Computer Vision (Object Detection, Image Segmentation)
-- Full-Stack Testing & SaaS Applications
+- Full-Stack (Preferably Backend) & SaaS Applications
 - Robotics Simulation (ROS2, Gazebo)
 
 ---
