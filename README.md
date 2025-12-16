@@ -145,7 +145,7 @@ Developed and compared RL agents (PPO, DQN, A2C) for dynamic gameplay optimizati
 
 - **LinkedIn:** [linkedin.com/in/arunabhbora](https://linkedin.com/in/arunabhbora)
 - **GitHub:** [github.com/arunabh-alt](https://github.com/arunabh-alt)
-- **Google Scholar:** [View Profile](https://scholar.google.com)
+- **Google Scholar:** [View Profile](https://scholar.google.com/citations?hl=en&user=dENBUoIAAAAJ)
 - **Email:** arunabhbora.ab@gmail.com
 - **Location:** London, United Kingdom
 
