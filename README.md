@@ -14,8 +14,8 @@ I'm an **AI/ML Research Engineer** with **2.5+ years** of experience designing a
 
 **Key Highlights:**
 -  **AI Lead** at myAgentsAI (Nov 2025-Present) - Leading agentic AI coworker platform development
--  **60+ Google Scholar citations** for research contributions in GenAI and MLOps
--  **MS Robotics & AI** (Distinction, 77.1%) from University of Lincoln
+-  **70+ Google Scholar citations** for research contributions in GenAI and MLOps
+-  **MS Robotics & AI** (Distinction) from University of Lincoln
 -  **Published researcher** with 3 peer-reviewed papers in top-tier venues (MDPI, IEEE, Nature)
 -  Expert in cloud-native systems (Azure, FastAPI, Docker, Kubernetes)
 -  Specializing in LLM optimization, RAG, reinforcement learning, and hardware-software integration
@@ -134,7 +134,7 @@ Developed and compared RL agents (PPO, DQN, A2C) for dynamic gameplay optimizati
 ##  Education
 
 - **MS in Robotics & Artificial Intelligence** — University of Lincoln (Sep 2023 - Sep 2024)
-  - Grade: **Distinction (77.1%)**
+  - Grade: **Distinction**
   
 - **BTech in Electronics and Communication Engineering** — Gauhati University (Aug 2018 - Jul 2022)
   - CGPA: **8.58/10**
