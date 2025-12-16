@@ -1,4 +1,4 @@
-# <h1 align="center">Hi, I'm Arunabh Bora 👋</h1>
+# <h1 align="center">Hi, I'm Arunabh Bora </h1>
 
 <h3 align="center">AI/ML Research Engineer | Agentic AI Systems | Full-Stack AI Developer</h3>
 
@@ -8,21 +8,21 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I'm an **AI/ML Research Engineer** with **2.5+ years** of experience designing and deploying end-to-end **Generative AI systems**, advanced deep learning architectures, and production ML pipelines. Currently leading a team of engineers at **myAgentsAI** building enterprise-grade agentic AI platforms.
 
 **Key Highlights:**
-- 🤖 **AI Lead** at myAgentsAI (Nov 2025-Present) - Leading agentic AI coworker platform development
-- 🏆 **60+ Google Scholar citations** for research contributions in GenAI and MLOps
-- 🎓 **MSc Robotics & AI** (Distinction, 77.1%) from University of Lincoln
-- 🔬 **Published researcher** with 3 peer-reviewed papers in top-tier venues (MDPI, IEEE, Nature)
-- ☁️ Expert in cloud-native systems (Azure, FastAPI, Docker, Kubernetes)
-- 🧠 Specializing in LLM optimization, RAG, reinforcement learning, and hardware-software integration
+-  **AI Lead** at myAgentsAI (Nov 2025-Present) - Leading agentic AI coworker platform development
+-  **60+ Google Scholar citations** for research contributions in GenAI and MLOps
+-  **MS Robotics & AI** (Distinction, 77.1%) from University of Lincoln
+-  **Published researcher** with 3 peer-reviewed papers in top-tier venues (MDPI, IEEE, Nature)
+-  Expert in cloud-native systems (Azure, FastAPI, Docker, Kubernetes)
+-  Specializing in LLM optimization, RAG, reinforcement learning, and hardware-software integration
 
 ---
 
-## 🛠️ Skills & Technologies
+##  Skills & Technologies
 
 #### **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -59,7 +59,7 @@ I'm an **AI/ML Research Engineer** with **2.5+ years** of experience designing a
 
 ---
 
-## 💼 Recent Work Highlights
+##  Recent Work Highlights
 
 ### **AI Lead at myAgentsAI** (Nov 2025-Present)
 - **Agentic AI Platform Leadership:** Leading team of 4 engineers in building enterprise AI coworker platform with personalized coaching and real-time collaboration features
@@ -75,7 +75,7 @@ I'm an **AI/ML Research Engineer** with **2.5+ years** of experience designing a
 
 ---
 
-## 📚 Research & Publications
+##  Research & Publications
 
 <p align="center">
   <strong>60+ Citations on Google Scholar | 3 Peer-Reviewed Publications</strong>
@@ -98,7 +98,7 @@ I'm an **AI/ML Research Engineer** with **2.5+ years** of experience designing a
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
 ### **1. Comparative Analysis of RAG-Based LLMs for Medical Chatbots**
 Fine-tuned open-source LLMs (Flan-T5, LLaMA-2, Mistral-7B) using LoRA/PEFT techniques for medical Q&A. Developed a novel logit-based MCQ evaluation approach achieving **57% accuracy on USMLE** exams. Built a Flask & JavaScript medical chatbot with embedding models.
@@ -122,7 +122,7 @@ Developed and compared RL agents (PPO, DQN, A2C) for dynamic gameplay optimizati
 
 ---
 
-## 📊 GitHub & Contributions
+## GitHub & Contributions
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arunabh-alt&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="48%" />
@@ -131,9 +131,9 @@ Developed and compared RL agents (PPO, DQN, A2C) for dynamic gameplay optimizati
 
 ---
 
-## 🎓 Education
+##  Education
 
-- **MSc in Robotics & Artificial Intelligence** — University of Lincoln (Sep 2023 - Sep 2024)
+- **MS in Robotics & Artificial Intelligence** — University of Lincoln (Sep 2023 - Sep 2024)
   - Grade: **Distinction (77.1%)**
   
 - **BTech in Electronics and Communication Engineering** — Gauhati University (Aug 2018 - Jul 2022)
@@ -141,7 +141,7 @@ Developed and compared RL agents (PPO, DQN, A2C) for dynamic gameplay optimizati
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 - **LinkedIn:** [linkedin.com/in/arunabhbora](https://linkedin.com/in/arunabhbora)
 - **GitHub:** [github.com/arunabh-alt](https://github.com/arunabh-alt)
@@ -151,7 +151,7 @@ Developed and compared RL agents (PPO, DQN, A2C) for dynamic gameplay optimizati
 
 ---
 
-## 💡 Fun Fact
+## Fun Fact
 
 I'm passionate about building intelligent systems that bridge the gap between cutting-edge AI research and real-world enterprise applications. Whether it's optimizing transformer architectures, designing scalable RAG pipelines, or leading agentic AI teams, I love the challenge of pushing AI capabilities forward! 🚀
 
