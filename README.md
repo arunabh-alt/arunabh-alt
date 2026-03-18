@@ -14,7 +14,7 @@ I'm an **AI/ML Research Engineer** with **2.5+ years** of experience designing a
 
 **Key Highlights:**
 -  **AI Lead** at myAgentsAI (Nov 2025-Present) - Leading agentic AI coworker platform development
--  **70+ Google Scholar citations** for research contributions in GenAI and MLOps
+-  **100+ Google Scholar citations** for research contributions in GenAI and MLOps
 -  **MS Robotics & AI** (Distinction) from University of Lincoln
 -  **Published researcher** with 3 peer-reviewed papers in top-tier venues (MDPI, IEEE, Nature)
 -  Expert in cloud-native systems (Azure, FastAPI, Docker, Kubernetes)
