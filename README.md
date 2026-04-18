@@ -46,7 +46,7 @@ Currently architecting the full robotics software stack for a **humanoid robot**
 ## Experience
 
 ### Robotics Engineer (Humanoid) | British Institute of Technology, London
-**Mar 2025 – Present**
+**Mar 2026 – Present**
 - Architecting full robotics software stack on **NVIDIA Jetson Orin** with ROS2 for real-time robot operation
 - Designing perception pipelines using depth cameras + LiDAR for 3D scene reconstruction and obstacle detection
 - Implementing SLAM algorithms for real-time self-localisation in dynamic environments
@@ -56,7 +56,7 @@ Currently architecting the full robotics software stack for a **humanoid robot**
 ---
 
 ### AI Lead | myAgentsAI, London
-**Nov 2024 – Mar 2025**
+**Nov 2025 – Mar 2026**
 - Led team of 4 engineers building enterprise-grade agentic AI coworker platform
 - Developed parallel chunking pipeline achieving **80% latency reduction**
 - Architected **Azure Blob Storage + Azure AI Search** infrastructure for enterprise-scale RAG
@@ -65,7 +65,7 @@ Currently architecting the full robotics software stack for a **humanoid robot**
 ---
 
 ### AI Software Developer | myAgentsAI, London
-**Jun 2024 – Nov 2024**
+**Jun 2025 – Nov 2025**
 - Designed domain-specialised agentic RAG framework with **FastAPI** backend
 - Containerised services with Docker, deployed to **Azure Container Registry** with CI/CD pipelines
 - Orchestrated model deployment via Azure Container Instances with auto-scaling and monitoring
@@ -73,19 +73,22 @@ Currently architecting the full robotics software stack for a **humanoid robot**
 
 ---
 
+### AI Engineer | UTAP Tech, Louth
+**Oct 2024 – Jan 2025**
+- Built PyTorch-based 3D point cloud model for cattle weight estimation — **93% accuracy (±10 kg MAE)**
+- Optimised model for edge deployment; configured Azure ML compute clusters for batch inference
+- Implemented model versioning and tracking in Azure ML
+
+---
+  
 ### Research Assistant (ML) | University of Lincoln
 **Feb 2024 – Jun 2024**
 - Developed and benchmarked three hybrid deep learning architectures for industrial forecasting
 - Best model: LSTM→Transformer Encoder achieving **91% accuracy (MAPE ±5%)**
 - Tracked all experiments with MLflow across rigorous multi-architecture evaluations
 
----
 
-### AI Engineer | UTAP Tech, Louth
-**Oct 2023 – Jan 2024**
-- Built PyTorch-based 3D point cloud model for cattle weight estimation — **93% accuracy (±10 kg MAE)**
-- Optimised model for edge deployment; configured Azure ML compute clusters for batch inference
-- Implemented model versioning and tracking in Azure ML
+
 
 ---
 
